@@ -36,6 +36,8 @@ ChecklistGenerator/
 ├── ssg_logo.png # App icon
 ├── leedle.mp3 # Alert sound
 
+---
+
 ## Getting Started
 
 ### Requirements (for development)
