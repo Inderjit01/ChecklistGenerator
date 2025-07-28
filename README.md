@@ -16,28 +16,6 @@
 - Built using PyQt5 and `python-docx`
 - Packaged as a standalone executable using PyInstaller
 
----
-
-## Folder Structure
-ChecklistGenerator/
-│
-├── main.py # Entry point of the application
-├── Application_GUI.py # GUI logic (PyQt5)
-├── CheckList_Generator.py # Document generation logic
-│
-├── templates/ # Checklist document templates (.docx)
-│ ├── LHC_Template.docx
-│ └── ...
-│
-├── customerInfoTemplates/ # Customer document templates (.docx)
-│ ├── LHC_CustomerTemplate.docx
-│ └── ...
-│
-├── ssg_logo.png # App icon
-├── leedle.mp3 # Alert sound
-
----
-
 ## Getting Started
 
 ### Requirements (for development)
